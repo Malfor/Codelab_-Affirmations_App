@@ -1,0 +1,1 @@
+Affirmations es una aplicación sencilla que muestra diez afirmaciones positivas como texto en una lista de desplazamiento.
